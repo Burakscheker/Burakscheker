@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">Hello, I am Burak Şeker from Izmir, Turkey. I am currently studying at the Dokuz Eylül University Computer Engineering Departmant.</h3>
-<h4 align="center">(If you are looking for my c# projects i keep them in private because they are below my current level and i think they are easy projects and i can make better projects than them)</h4>  
+<h4 align="center">(If you are looking for my C# projects, I keep them private because they are below my current skill level. They were simple projects, and I’m confident I can create much better ones now.)</h4>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
