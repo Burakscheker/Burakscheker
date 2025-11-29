@@ -29,11 +29,13 @@ Currently working on a custom search engine implementation.
 
 ---
 
-### ⚡ GitHub Stats
+### 🏆 Achievements & Activity
 
-![Burak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Burakscheker&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Burakscheker&theme=radical)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burakscheker&layout=compact&theme=radical)
+<br>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Burakscheker&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
   <sub>Let's connect and build something amazing together!</sub>
