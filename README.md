@@ -42,8 +42,8 @@ Currently working on a custom search engine implementation.
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Burakscheker&show_icons=true&theme=radical" alt="Burak's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burakscheker&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=burakscheker&show_icons=true&theme=radical" alt="Burak's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakscheker&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <div align="center">
