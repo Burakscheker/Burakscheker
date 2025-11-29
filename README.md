@@ -1,31 +1,21 @@
-<h1 align="center">Hi 👋, I'm Burak Şeker</h1>
-<h3 align="center">Computer Engineering Student @ Dokuz Eylül University</h3>
+# Hi 👋, I'm Burak Şeker
+### Computer Engineering Student @ Dokuz Eylül University
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/burak-seker" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:burakscheker@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-seker)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burakscheker@gmail.com)
 
-<p align="center">
-  I am a passionate <b>Computer Engineering</b> student based in <b>Izmir, Turkey</b>. <br>
-  I focus on software development, specifically aiming to specialize in <b>Artificial Intelligence</b> and <b>Cloud Engineering</b>. I love building high-performance systems and exploring complex algorithms.
-</p>
+I am a passionate **Computer Engineering** student based in **Izmir, Turkey**.
+I focus on software development, specifically aiming to specialize in **Artificial Intelligence** and **Cloud Engineering**. I love building high-performance systems and exploring complex algorithms.
 
 ---
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -41,10 +31,9 @@ Currently working on a custom search engine implementation.
 
 ### ⚡ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=burakscheker&show_icons=true&theme=radical" alt="Burak's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakscheker&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+![Burak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Burakscheker&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burakscheker&layout=compact&theme=radical)
 
 <div align="center">
   <sub>Let's connect and build something amazing together!</sub>
