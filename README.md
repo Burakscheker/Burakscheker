@@ -28,15 +28,6 @@ Currently working on a custom search engine implementation.
 * **Goal:** To understand data structures and algorithm optimization at a deeper level.
 
 ---
-
-### 🏆 Achievements & Activity
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Burakscheker&theme=radical)](https://git.io/streak-stats)
-
-<br>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Burakscheker&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 <div align="center">
   <sub>Let's connect and build something amazing together!</sub>
 </div>
