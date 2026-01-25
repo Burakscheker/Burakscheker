@@ -1,9 +1,9 @@
 # 🚀 Burak Şeker | Computer Engineering Student
 
-### 🎯 Proactive Engineer & Former Professional Athlete
-Portfolyomda belirttiğim gibi, profesyonel sporculuktan gelen disiplini mühendislik süreçlerime aktarıyorum. Hazır kütüphanelerle yetinmek yerine, sistemleri **"sıfırdan" (ground-up)** inşa ederek çekirdek mantığına hakim olmayı hedefliyorum.
+### 🎯 Engineering Student
+Profesyonel sporculuktan gelen disiplini mühendislik süreçlerime aktarıyorum. Hazır kütüphanelerle yetinmek yerine, sistemleri **"sıfırdan" (ground-up)** inşa ederek çekirdek mantığına hakim olmayı hedefliyorum.
 
-- 🛡️ **Focus:** Savunma Sanayii, Otonom Sistemler ve Düşük Seviyeli Optimizasyon.
+- 🛡️ **Focus:** Yapay Zeka, Bulut Sistemleri, Savunma Sanayii, Otonom Sistemler ve Düşük Seviyeli Optimizasyon.
 - 🎓 **Education:** Dokuz Eylül Üniversitesi - Bilgisayar Mühendisliği (2. Sınıf).
 - 💡 **Philosophy:** Performans odaklı, güvenilir ve bellek verimliliği yüksek mimariler inşa etmek.
 
