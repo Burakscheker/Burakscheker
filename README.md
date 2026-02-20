@@ -43,6 +43,4 @@ Profesyonel sporculuktan gelen disiplini mühendislik süreçlerime aktarıyorum
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oburakseker@outlook.com)
 
 ---
-<div align="center">
-  <sub>Milli teknoloji hamlesine katkı sağlamak için disiplinle üretiyorum.</sub>
-</div>
+
