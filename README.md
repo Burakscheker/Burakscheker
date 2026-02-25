@@ -1,11 +1,11 @@
 # 🚀 Burak Şeker | Computer Engineering Student
 
 ### 🎯 Engineering Student
-Profesyonel sporculuktan gelen disiplini mühendislik süreçlerime aktarıyorum. Hazır kütüphanelerle yetinmek yerine, sistemleri **"sıfırdan" (ground-up)** inşa ederek çekirdek mantığına hakim olmayı hedefliyorum.
+I translate the discipline gained from professional sports into my engineering workflows. Rather than relying solely on high-level libraries, I strive to master the core logic by building systems **from the ground up**.
 
-- 🛡️ **Focus:** Yapay Zeka, Bulut Sistemleri, Savunma Sanayii, Otonom Sistemler ve Düşük Seviyeli Optimizasyon.
-- 🎓 **Education:** Dokuz Eylül Üniversitesi - Bilgisayar Mühendisliği (2. Sınıf).
-- 💡 **Philosophy:** Performans odaklı, güvenilir ve bellek verimliliği yüksek mimariler inşa etmek.
+- 🛡️ **Focus:** Artificial Intelligence, Cloud Systems, Defense Industry, Autonomous Systems, and Low-Level Optimization.
+- 🎓 **Education:** Dokuz Eylül University - Computer Engineering (Sophomore).
+- 💡 **Philosophy:** Building performance-oriented, reliable, and memory-efficient architectures.
 
 ---
 
@@ -13,34 +13,31 @@ Profesyonel sporculuktan gelen disiplini mühendislik süreçlerime aktarıyorum
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, Python, C#, C (Öğrenim aşamasında) |
+| **Languages** | Java, Python, Flutter (In progress), C#, C (In progress) |
 | **Data & AI** | Pandas, NumPy, TF-IDF, Graph Structures |
 | **Tools & OS** | Git, Linux, Selenium, Hashing Architectures |
 
 ---
 
-### 🌟 Öne Çıkan Projeler (Performans Odaklı)
+### 🌟 Featured Projects (Performance-Driven)
 
 #### 🔍 [High-Performance Article Search Engine](https://github.com/Burakscheker/Article_Search_Engine)
-* **Problem:** Büyük veri setleri içinde düşük gecikme süresiyle arama yapmak.
-* **Çözüm:** Sıfırdan özel bir **Hash Mimarisi** ve **Inverted Index** yapısı geliştirildi.
-* **Sonuç:** 28.000'den fazla kayıt yüksek verimlilikle işlenip indeksleniyor.
+* **Problem:** Searching within large datasets with ultra-low latency.
+* **Solution:** Developed a custom **Hash Architecture** and **Inverted Index** structure from scratch.
+* **Result:** Efficiently processes and indexes over 28,000 records for rapid retrieval.
 
 #### 📈 [Algorithmic Trade Engine](https://github.com/Burakscheker/TradeEngine)
-* **Odak:** Gerçek zamanlı veri analizi ve otonom karar verme mekanizmaları.
-* **Teknoloji:** Python, OOP prensipleri, RSI & SMA hibrit stratejileri.
-* **Çekirdek:** BTC-USD paritesinde gerçek zamanlı analiz ve performans görselleştirme.
+* **Focus:** Real-time data analysis and autonomous decision-making mechanisms.
+* **Tech:** Python, OOP Principles, RSI & SMA hybrid strategies.
+* **Core:** Real-time analysis and performance visualization for the BTC-USD pair.
 
-#### 🧬 [BioInformatics Network Analyzer](https://github.com/Burakscheker/BioInformatics-Project)
-* **Odak:** Karmaşık grafik teorisi ve yol bulma algoritmaları.
-* **Teknoloji:** Java, Dijkstra, BFS/DFS.
-* **Metrik:** Protein etkileşim ağlarında "En Güvenilir Yol" (Most Confident Path) ve çap hesaplamaları.
+#### 🎓 [Course Management System (LMS)](https://github.com/Burakscheker/Course_Management_System)
+* **Focus:** Object-Oriented Analysis and Design (OOAD) & Layered Architecture.
+* **Tech:** Java (JDK 8+), Java 2D Graphics, File I/O.
+* **Core:** Features role-based access control (Admin/Student), automated PNG certificate generation, and native content delivery (PDF/Video) using OS-level integration.
 
 ---
 
-### 📫 İletişim
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-seker)
+### 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burakscheker)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oburakseker@outlook.com)
-
----
-
