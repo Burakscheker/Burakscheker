@@ -1,6 +1,6 @@
 # 🚀 Burak Şeker | Computer Engineering Student
 
-### 🎯 Engineering Student
+### 🎯 Computer Engineering Student
 I translate the discipline gained from professional sports into my engineering workflows. Rather than relying solely on high-level libraries, I strive to master the core logic by building systems **from the ground up**.
 
 - 🛡️ **Focus:** Artificial Intelligence, Cloud Systems, Defense Industry, Autonomous Systems, and Low-Level Optimization.
