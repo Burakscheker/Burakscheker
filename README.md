@@ -1,16 +1,16 @@
 # Hi, I'm Burak! 👋
+### Computer Engineering Student | Aspiring AI Engineer
 
-### Computer Engineering Student | Cloud, Data & AI Enthusiast
-
-I am a 2nd-year Computer Engineering student at **Dokuz Eylul University**. My focus is on building scalable systems, optimizing data structures, and exploring the intersection of AI and business. I specialize in developing high-performance backend solutions and intelligent automation systems.
+I am a 2nd-year Computer Engineering student at **Dokuz Eylul University**. My focus is on building AI-driven systems, developing high-performance backend solutions, and turning data into intelligent automation.
 
 ---
 
 ## 🚀 What I'm Working On
-- **System Architecture:** Developing high-performance tools using Java and custom data structures.
-- **Smart Solutions:** Building AI-driven projects like my weather-based clothing recommender.
-- **SaaS & Innovation:** Exploring B2B SaaS and Micro-SaaS models to create value-driven software.
-- **Cloud Engineering:** Learning to architect scalable infrastructures for the next generation of apps.
+
+- **Machine Learning:** Building predictive models and intelligent recommendation systems using Python and Scikit-learn.
+- **Algorithmic Trading:** Developing automated trading bots with hybrid technical analysis strategies.
+- **Backend Engineering:** Designing high-performance systems using Java, custom data structures, and OOP principles.
+- **Data & AI:** Exploring the intersection of real-world data and machine learning across domains — from finance to geophysics.
 
 ---
 
@@ -18,19 +18,19 @@ I am a 2nd-year Computer Engineering student at **Dokuz Eylul University**. My f
 
 | Category | Technologies & Skills |
 | :--- | :--- |
-| **Languages** | Java, Python, SQL, C |
-| **Data Structures** | Custom Hash Architectures, Inverted Index, Linked Lists |
-| **Domain Knowledge** | Bioinformatics, Graph Analysis, Object-Oriented Analysis (OOAD) |
-| **Tools & Platforms** | Git, Docker, REST APIs, Linux |
+| **Languages** | Java, Python, C#, C |
+| **ML & Data** | Scikit-learn, Pandas, NumPy, Random Forest, Time Series |
+| **Backend** | OOP, OOAD, Design Patterns, REST APIs |
+| **Tools & Platforms** | Git, Linux, IntelliJ, PyCharm, VS Code |
 
 ---
 
 ## 📂 Featured Projects
 
-- **[JOSYS](https://github.com/Burakscheker/JOSYS)** - A Job Placement Automation System built in Java using custom-built linked list structures.
-- **[High-Performance Search Engine](https://github.com/Burakscheker/Article_Search_Engine)** - Processes 28,000+ records using a custom inverted index for lightning-fast retrieval.
-- **[Protein Interaction Network](https://github.com/Burakscheker/BioInformatics-Project)** - A Java-based bioinformatics tool for analyzing complex graph-based biological data.
-- **[WeatherFit-AI](https://github.com/Burakscheker/WeatherFit-AI)** - An intelligent recommendation system that bridges weather data with fashion choices.
+- **[Stock Prediction ML](https://github.com/Burakscheker/Stock_Prediction_ML_Project)** - Machine learning model for stock price prediction using real market data.
+- **[WeatherFit-AI](https://github.com/Burakscheker/WeatherFit-AI)** - AI-powered clothing recommendation CLI using Random Forest Classifier and real-time weather data.
+- **[Article Search Engine](https://github.com/Burakscheker/Article_Search_Engine)** - Processes 28,000+ records using a custom inverted index for lightning-fast retrieval.
+- **[Hospital Management System](https://github.com/Burakscheker/Hospital-Management-System)** - Terminal-based HMS built with Java, implementing N-Tier architecture and 5 design patterns (Singleton, Factory, Observer, Repository, Strategy).
 
 ---
 
